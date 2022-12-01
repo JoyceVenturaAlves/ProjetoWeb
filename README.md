@@ -8,9 +8,9 @@ Tecnologias utilizadas: HTML, CSS, Bootstrap e JavaScript.
 
 Funcionalidades: 
 
-I) Slides em Carousel;
-II) Formulário;
-III) Botões funcionais;
-IV) Vídeo;
-V) Cards;
-VI) Interatividade.
+I) Slides em Carousel;</br>
+II) Formulário;</br>
+III) Botões funcionais;</br>
+IV) Vídeo;</br>
+V) Cards;</br>
+VI) Interatividade.</br>
