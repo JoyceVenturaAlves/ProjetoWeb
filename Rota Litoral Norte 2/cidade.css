@@ -150,4 +150,7 @@ ul{
     border-radius: 20px;
     margin-top: 3em;
 }
-
+.cidade li:hover{
+    transform: scale(1) rotate(2deg);
+    cursor: pointer;
+}
