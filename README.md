@@ -12,4 +12,5 @@ i) Slides em Carousel;
 ii) Formulário;
 iii) Botões funcionais;
 iv) Vídeo;
-v) Cards.
+v) Cards;
+vi) Interatividade.
