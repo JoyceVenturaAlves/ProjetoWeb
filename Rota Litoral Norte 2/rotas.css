@@ -136,3 +136,12 @@ footer ul li {
     vertical-align: middle;
     padding: 10px;
 }
+.col{
+    transition: all 0.3s ease-in-out; 
+    box-sizing:border-box;
+}
+
+.col:hover{
+    transform: scale(1) rotate(2deg);
+    cursor: pointer;
+}
